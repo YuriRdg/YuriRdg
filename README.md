@@ -2,11 +2,7 @@
 
 </br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<h1 align="center" justify="end">
-  
-    Front End Developer
-  
-</h1>
+<h1 align="center" justify="end"> Front End Developer</h1>
 <img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
 </br>
 
