@@ -1,13 +1,13 @@
 <h1 align="center">Yuri Almeida Rodrigues</h1>
 
 </br>
-
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <h1 align="center" justify="end">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
     Front End Developer
-  <img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
+  
 </h1>
-
+<img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
 </br>
 
 <h1 align="center">Sobre mim</h1>
