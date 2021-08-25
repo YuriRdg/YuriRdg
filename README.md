@@ -1,17 +1,13 @@
 <h1 align="center" justify="end">Yuri Almeida Rodrigues - Front End Developer</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<h1 align="center">Sobre mim</h1>
 Me chamo Yuri, prazer! Tenho 20 anos e estou cursando o 3º semestre de engenharia de software na UTFPR-DV.
 Desde sempre fui interessado em tecnologia e programação, com grande vontade de aprender cada vez mais. Após atuar como analista de configuração (devops), me encontrei no front end e desde então tenho evoluído muito profissionalmente e pessoalmente.
 
 <h1 align="center">Conhecimentos</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
