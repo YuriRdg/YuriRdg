@@ -1,6 +1,6 @@
 <h1 align="center" justify="end">Yuri Almeida Rodrigues - Front End Developer</h1>
 
-Me chamo Yuri, prazer! Tenho 21 anos e estou cursando o 3º semestre de engenharia de software na UTFPR-DV.
+Me chamo Yuri, prazer! Tenho 2 anos e estou cursando o 3º semestre de engenharia de software na UTFPR-DV.
 Desde sempre fui interessado em tecnologia e programação, com grande vontade de aprender cada vez mais. Após atuar como analista de configuração (devops), me encontrei no front end e desde então tenho evoluído muito profissionalmente e pessoalmente.
 
 <h1 align="center">Conhecimentos</h1>
